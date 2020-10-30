@@ -1,0 +1,29 @@
+.iframeHack {
+  width: 100%;
+  .avatar {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    vertical-align: middle;
+  }
+
+  .rectangular {
+    width: 32px;
+    height: 32px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: SimHei;
+    font-weight: bolder;
+    color: #000000;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 1);
+  }
+
+  .imgIcon{
+    display: inline-block;
+    font-size: 18px;
+    width: 32px;
+    height: 32px;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "plugins": [
+    [
+      "build-plugin-fusion",
+      {
+        "themePackage": "@alifd/theme-qiji"
+      }
+    ],
+    [
+      "build-plugin-moment-locales",
+      {
+        "locales": [
+          "zh-cn"
+        ]
+      }
+    ]
+  ]
+}
